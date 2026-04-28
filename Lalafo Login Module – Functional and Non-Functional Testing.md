@@ -313,11 +313,11 @@ Nəticə: sistem limit tətbiq etdi və artıq simvollar qəbul edilmədi
 
 
 
-### Lalafo.az – Giriş/Qeydiyyat modulunun funksionallıq və qeyri-funksional testi (Test Case / Task 02) tamamlandı.
+# Lalafo.az – Giriş/Qeydiyyat modulunun funksionallıq və qeyri-funksional testi (Test Case / Task 02) tamamlandı.
 
-Pozitiv və negativ test ssenariləri, həmçinin usability, compatibility və reliability yoxlanışları uğurla icra edildi.
+## Pozitiv və negativ test ssenariləri, həmçinin usability, compatibility və reliability yoxlanışları uğurla icra edildi.
 
-Test zamanı aşağıdakı problemlər, aydınlaşdırılmalı məqamlar və təkliflər aşkar olundu:
+### Test zamanı aşağıdakı problemlər, aydınlaşdırılmalı məqamlar və təkliflər aşkar olundu:
 
 
 
